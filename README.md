@@ -1,0 +1,1 @@
+# A semantic search engine for fashion, using a hybrid aproach.
