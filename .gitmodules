@@ -1,0 +1,6 @@
+[submodule "hybrid-search-engine-api"]
+	path = hybrid-search-engine-api
+	url = https://github.com/msvensson222/search-api-demo1
+[submodule "medusa-plugin-customsearch"]
+	path = medusa-plugin-customsearch
+	url = https://github.com/msvensson222/medusa-plugin-customsearch
