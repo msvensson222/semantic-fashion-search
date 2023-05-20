@@ -1,7 +1,7 @@
 # A semantic search engine for fashion
 
 *For fashion in an ecommerce setting, using a hybrid approach to combine both dense vector search with traditional
-keyword-based search. Try it out yourself [here](https://custom-search-engine-fashion-demo.netlify.app) - a demo website
+keyword-based search. I also build a demo website
 with 7500+ fashion products. Check out the video (no sound) below:*
 
 https://user-images.githubusercontent.com/44285698/221427212-c1589e01-c0e3-4563-aef4-4bb8c880190e.mp4
